@@ -70,8 +70,9 @@ MVC 模式（MVC Pattern）
 拦截过滤器模式（Intercepting Filter Pattern）
 服务定位器模式（Service Locator Pattern）
 传输对象模式（Transfer Object Pattern）
-
+# 模型之间的关系
 下面用一个图片来整体描述一下设计模式之间的关系：
+image(https://github.com/YouAreOnlyOne/DesignPatterns/blob/master/img/the-relationship-between-design-patterns.jpg)
 
 
 
